@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3002/api/v1"
+const API_URL = "https://eventhive-2.onrender.com/cdapi/v1"
 
 export const getEvents = async () => {
     try {
