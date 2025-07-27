@@ -1,4 +1,4 @@
-const { SiTruenas } = require('react-icons/si')
+// const { SiTruenas } = require('react-icons/si')
 const Event = require('../models/eventModel')
 const catchAsync = require('../utils/catchAsync')
 exports.getAllEvents = catchAsync(async (req,res)=>{
