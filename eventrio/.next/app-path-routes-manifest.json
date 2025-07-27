@@ -1,0 +1,17 @@
+{
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/favicon.ico/route": "/favicon.ico",
+  "/_not-found/page": "/_not-found",
+  "/auth/error/page": "/auth/error",
+  "/auth/signin/page": "/auth/signin",
+  "/auth/signup/page": "/auth/signup",
+  "/home/page": "/home",
+  "/auth/login/page": "/auth/login",
+  "/home/users/guest/page": "/home/users/guest",
+  "/home/users/events/page": "/home/users/events",
+  "/home/users/overview/page": "/home/users/overview",
+  "/home/users/guests/page": "/home/users/guests",
+  "/home/users/page": "/home/users",
+  "/home/users/settings/page": "/home/users/settings",
+  "/page": "/"
+}
