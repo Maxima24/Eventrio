@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const { MdOutlineLocalGroceryStore } = require('react-icons/md')
+// const { MdOutlineLocalGroceryStore } = require('react-icons/md')
 const validator = require('validator')
 const bcrypt = require('bcrypt')
 const userSchema =  new mongoose.Schema({
